@@ -9,3 +9,10 @@
 </div>
 
 ## :star2: Plan
+
+- [ ] Main
+  - [ ] Launcher
+  - [ ] Package Manager
+  - [ ] Teamplates
+  - [ ] Builder
+  
