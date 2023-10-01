@@ -11,7 +11,8 @@
 ## :star2: Plan
 
 - [ ] Main
-  - [ ] Launcher
+  - [ ] Project init 
+  - [x] Launcher
   - [ ] Package Manager
   - [ ] Teamplates
   - [ ] Builder
